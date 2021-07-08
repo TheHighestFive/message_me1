@@ -1,5 +1,7 @@
 # README
 
+This is round 2 of message me in rails 6. Hopefully we missed something the first time. Rails 5 was choosing to not work. So let's just hope I missed something the first go around.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
